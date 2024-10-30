@@ -36,7 +36,7 @@ elif numero < 0:
 else:
   print("o numero é neutro")
 
-#questão5
+#questão5 verificar numero maior
 
 numero1 = int(input("digite um número"))
 numero2 = int(input("digite outro número"))
